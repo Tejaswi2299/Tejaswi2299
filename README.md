@@ -1,9 +1,8 @@
 Hi there 👋 I'm Tejaswi Reddy
 I'm a Data Engineer/Analyst with over 3 years of experience specializing in data engineering, analysis, and visualization. My expertise spans industries such as insurance, healthcare, property and casualty (P&C), and consulting. I’m passionate about designing efficient data pipelines, creating insightful dashboards, and leveraging cloud technologies to drive data-driven decision-making.
 
-🔭 Current Projects
-Sports Analytics: Developing scouting models and game strategy tools to evaluate player performance, game planning, and in-game tactical adjustments for improved team outcomes.
-Interactive Dashboards: Building Power BI and Tableau visualizations to enhance data insights and streamline decision-making processes across key business units.
+![image](https://github.com/user-attachments/assets/f4e0f610-0fe1-46ae-a5fe-954d02425cf3)
+
 
 
 🌱 What I'm Learning
