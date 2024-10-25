@@ -1,7 +1,11 @@
-Hi there 👋 I'm Tejaswi Reddy
+Hi there 👋 I'm Tejaswi Reddy,
+
 I'm a Data Engineer/Analyst with over 3 years of experience specializing in data engineering, analysis, and visualization. My expertise spans industries such as insurance, healthcare, property and casualty (P&C), and consulting. I’m passionate about designing efficient data pipelines, creating insightful dashboards, and leveraging cloud technologies to drive data-driven decision-making.
 
+SkillSet:
+
 ![image](https://github.com/user-attachments/assets/f4e0f610-0fe1-46ae-a5fe-954d02425cf3)
+
 
 
 
