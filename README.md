@@ -27,5 +27,7 @@ Cloud & Big Data Solutions: Skilled in AWS (S3, Airflow, Athena) and Azure (Data
 
 📫 Reach Me At
 Email: tejasvi2299@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/a-tejaswi-r/
+
 Portfolio: https://tejaswi2299.github.io/Portfolio/
