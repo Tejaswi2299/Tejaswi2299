@@ -2,7 +2,7 @@
 
 # 👋 TEJASWI REDDY
 
-**Senior ServiceNow & Ivanti Developer | Data Engineer | AI/ML Pioneer**
+**ServiceNow & Ivanti Developer | Data Engineer | AI/ML Pioneer**
 
 🚀 *Pivoting towards Data Engineering & AI/ML*
 
